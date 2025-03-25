@@ -87,7 +87,7 @@ const About = () => {
             <div className="lg:col-span-2 order-1 lg:order-2 animate-fade-left">
               <div className="aspect-[4/5] rounded-2xl overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=2670&auto=format&fit=crop" 
+                  src="https://i.kym-cdn.com/entries/icons/mobile/000/041/895/AALIYAH_WROTE_JAY_AN_APOLOGY_LETTER%F0%9F%93%83__MARK_WANT_DESIREE_AND_HANNAH!%F0%9F%98%B1_4-32_screenshot_(1).jpg" 
                   alt="Portrait" 
                   className="w-full h-full object-cover"
                 />
