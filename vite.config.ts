@@ -20,6 +20,8 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  // Add base configuration for GitHub Pages
+  base: './',
   optimizeDeps: {
     esbuildOptions: {
       // Lock esbuild version to 0.25.0 for security
